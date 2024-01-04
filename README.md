@@ -17,9 +17,3 @@ This repository created for Strategy Design pattern example.
 | `message` | `string` | **Required**. Your message that want to send |
 | `notificationType` | `string` | **Required**. You want to send your message to which where platforms: SITE, SMS, EMAIL |
 
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at mr.halilugur@gmail.com
-
